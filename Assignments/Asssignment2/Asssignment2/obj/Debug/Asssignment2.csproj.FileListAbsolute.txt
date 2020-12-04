@@ -1,0 +1,7 @@
+C:\Users\Atul\.Net-World\Assignments\Asssignment2\Asssignment2\bin\Debug\Asssignment2.exe.config
+C:\Users\Atul\.Net-World\Assignments\Asssignment2\Asssignment2\bin\Debug\Asssignment2.exe
+C:\Users\Atul\.Net-World\Assignments\Asssignment2\Asssignment2\bin\Debug\Asssignment2.pdb
+C:\Users\Atul\.Net-World\Assignments\Asssignment2\Asssignment2\obj\Debug\Asssignment2.csprojAssemblyReference.cache
+C:\Users\Atul\.Net-World\Assignments\Asssignment2\Asssignment2\obj\Debug\Asssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Atul\.Net-World\Assignments\Asssignment2\Asssignment2\obj\Debug\Asssignment2.exe
+C:\Users\Atul\.Net-World\Assignments\Asssignment2\Asssignment2\obj\Debug\Asssignment2.pdb
